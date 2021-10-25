@@ -1,4 +1,6 @@
-# SpatialSUR_FTGmodels
+Spatial Seemingly Unrelated Regression (SpatialSUR) --- Freight Trip Generation models by vehicle type
+
+Spatial SUR models Considers error-term and spatial correlations in FTG models
 
 Code and perturbed data for the TRR manuscript below:
 
